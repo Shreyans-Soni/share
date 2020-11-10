@@ -1,0 +1,23 @@
+%FSDCCore%
+C:\Program Files (x86)\Seclore\FileSecure\Desktop Client\Upgrade Manager
+C:\Program Files (x86)\Seclore\FileSecure\Desktop Client
+C:\Program Files (x86)\Seclore\FileSecure\Desktop Client\x64
+C:\ProgramData\Oracle\Java\javapath
+%SystemRoot%\system32
+%SystemRoot%
+%SystemRoot%\System32\Wbem
+%SYSTEMROOT%\System32\WindowsPowerShell\v1.0\
+%SYSTEMROOT%\System32\OpenSSH\
+C:\Program Files\PuTTY\
+C:\Windows\system32
+C:\Program Files\Git\cmd
+C:\Go\bin
+C:\Program Files\nodejs\
+C:\HashiCorp\Vagrant\bin
+C:\Program Files\TortoiseSVN\bin
+C:\terraform_0.13.4_windows_amd64
+D:\kubernetes
+C:\Program Files\Docker\Docker\resources\bin
+C:\ProgramData\DockerDesktop\version-bin
+C:\Users\localadmin\AppData\Local\Programs\Python\Python39\python.exe
+C:\Python27
